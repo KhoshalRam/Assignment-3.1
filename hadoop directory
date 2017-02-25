@@ -1,0 +1,6 @@
+mkdir user
+cd user
+mkdir acadgild
+cd acadgild
+mkdir hadooop
+cd hadoop
